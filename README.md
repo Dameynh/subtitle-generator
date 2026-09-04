@@ -37,13 +37,14 @@ Both models are run locally.
 
 # Demo
 
-### Hindi Subtitles
-
-The first demo shows the generated subtitles in the original language.
-
 ### English Subtitles
 
-The second demo shows the same workflow with the subtitles translated into English.
+The first demo shows the same workflow with the subtitles translated into English.
+
+### Hindi Subtitles
+
+The second demo shows the generated subtitles in the original language.
+
 
 # Setup
 
