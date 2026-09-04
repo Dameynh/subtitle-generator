@@ -37,9 +37,12 @@ Both models are run locally.
 
 # Demo
 
+> **Tip:** If the video does not preview directly on GitHub, click **View raw** to watch the video.
+
 ### English Subtitles
 
 The first demo shows the generated subtitles translated into English. [▶ Watch English Subtitle Demo](https://github.com/BharatBhushan-hub/subtitle-generator/blob/main/Demo/subtitle_test_clip%20(EN%20sub).mp4)
+
 
 ### Hindi Subtitles
 
