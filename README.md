@@ -4,14 +4,14 @@ A local Python-based subtitle generator that transcribes video audio and generat
 
 # Features
 
-* 🎙️ **Speech-to-text transcription** using Faster-Whisper (large-v3)
-* 🌍 **English translation** using IBM Granite 3.3 8B Instruct
-* 📝 Generates standard **.srt** subtitle files
-* 🔤 Supports subtitles in the **original language** or **English**
-* 🎧 Supports automatic language detection or manual language selection
-* 💻 Runs the transcription and translation locally
-* 📁 Processes MP4 files from a user-selected folder
-* 🔄 Can regenerate existing subtitle files when required
+* **Speech-to-text transcription** using Faster-Whisper (large-v3)
+* **English translation** using IBM Granite 3.3 8B Instruct
+* Generates standard **.srt** subtitle files
+* Supports subtitles in the **original language** or **English**
+* Supports automatic language detection or manual language selection
+* Runs the transcription and translation locally
+* Processes MP4 files from a user-selected folder
+* Can regenerate existing subtitle files when required
 
 # How It Works
 
